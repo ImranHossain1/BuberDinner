@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+iH/ks5x9jKq3zCCN1Bnb/ABpTS97GrgBe1FFbRu1MGO+MIOVw8C0pwMauVXYPpD2jFMPiUKVlxMaXTL4qfaw==",
+  "dgSpecHash": "pwjwCY2XhQ7k0VNMnzOCD00tpVqyShZPAFDWETxAEDFSNcb/15ebiD42yNefoqOxZV6acLO0aIYBkMPcjgIJSw==",
   "success": true,
   "projectFilePath": "J:\\ASP.net\\restApi\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\fluentresults\\3.15.1\\fluentresults.3.15.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
@@ -20,11 +23,13 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.25.1\\system.identitymodel.tokens.jwt.6.25.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

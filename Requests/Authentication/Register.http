@@ -5,10 +5,9 @@ Content-Type: application/json
 
 {
     "firstName": "Imran",
-    "lastName": "Hossain",
-    "email": "imranhossain1402@gmail.com
-    ",
+    "lastName": "Hossain", 
+    "email": "imranhossain1402@gmail.com",
     "password":"imran_1994!" 
 }
-###
+
 

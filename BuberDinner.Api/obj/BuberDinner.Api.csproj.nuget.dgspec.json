@@ -54,9 +54,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "oneof": {
+              "target": "Package",
+              "version": "[3.0.223, )"
             }
           },
           "imports": [
@@ -126,9 +134,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "fluentResults": {
+              "target": "Package",
+              "version": "[3.15.1, )"
             }
           },
           "imports": [
@@ -249,6 +265,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

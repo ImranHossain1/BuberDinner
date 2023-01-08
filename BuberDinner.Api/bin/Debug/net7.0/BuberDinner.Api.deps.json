@@ -11,10 +11,32 @@
           "BuberDinner.Application": "1.0.0",
           "BuberDinner.Contracts": "1.0.0",
           "BuberDinner.Infrastructure": "1.0.0",
-          "Microsoft.AspNetCore.OpenApi": "7.0.1"
+          "ErrorOr": "1.2.1",
+          "Microsoft.AspNetCore.OpenApi": "7.0.1",
+          "OneOf": "3.0.223"
         },
         "runtime": {
           "BuberDinner.Api.dll": {}
+        }
+      },
+      "ErrorOr/1.2.1": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "FluentResults/3.15.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "assemblyVersion": "3.15.1.0",
+            "fileVersion": "3.15.1.0"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/7.0.1": {
@@ -46,6 +68,7 @@
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {},
       "Microsoft.Extensions.Options/7.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
@@ -117,6 +140,14 @@
           }
         }
       },
+      "OneOf/3.0.223": {
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/6.25.1": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.25.1",
@@ -144,10 +175,13 @@
         }
       },
       "System.Text.Json/4.7.2": {},
+      "System.Threading.Tasks.Extensions/4.5.4": {},
       "BuberDinner.Application/1.0.0": {
         "dependencies": {
           "BuberDinner.Domain": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+          "ErrorOr": "1.2.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "FluentResults": "3.15.1"
         },
         "runtime": {
           "BuberDinner.Application.dll": {}
@@ -159,6 +193,9 @@
         }
       },
       "BuberDinner.Domain/1.0.0": {
+        "dependencies": {
+          "ErrorOr": "1.2.1"
+        },
         "runtime": {
           "BuberDinner.Domain.dll": {}
         }
@@ -182,6 +219,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "ErrorOr/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5xcbQErEPQKq2z/sLwSaFPX3T2G7x4ISX0us0X7jSxXSQT/wlfOOhw4knPUN/GWOf2strhuzdvRA36JViwvu+A==",
+      "path": "erroror/1.2.1",
+      "hashPath": "erroror.1.2.1.nupkg.sha512"
+    },
+    "FluentResults/3.15.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F5zd5+5cOG0Kn0rAXsoA3B2+7FHkCEHpz7d+tdcKZ25P1iufk1MqtfKR9fLZ+vTv9hekVpj9hi3h5Fv5/rQTzw==",
+      "path": "fluentresults/3.15.1",
+      "hashPath": "fluentresults.3.15.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/7.0.1": {
       "type": "package",
@@ -224,6 +275,13 @@
       "sha512": "sha512-h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Options/7.0.0": {
       "type": "package",
@@ -295,6 +353,13 @@
       "path": "microsoft.openapi/1.4.3",
       "hashPath": "microsoft.openapi.1.4.3.nupkg.sha512"
     },
+    "OneOf/3.0.223": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YWabiHBFfDdKIO7/TEa72mARVVo5u5FqFnfXuTqjIupMvJlhoH8d0m4uKtczaINuT0vGR1qlXJayeU6bTw5myg==",
+      "path": "oneof/3.0.223",
+      "hashPath": "oneof.3.0.223.nupkg.sha512"
+    },
     "System.IdentityModel.Tokens.Jwt/6.25.1": {
       "type": "package",
       "serviceable": true,
@@ -329,6 +394,13 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "path": "system.text.json/4.7.2",
       "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
     "BuberDinner.Application/1.0.0": {
       "type": "project",

@@ -41,3 +41,6 @@ J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Identi
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\OneOf.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\FluentResults.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\ErrorOr.dll

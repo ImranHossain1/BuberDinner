@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "khW6WC2mBhYjRpbkPdXthgtAprXklszy9zNDoqDOf1vMYOyIdCzoMyKhwIuqMMF6cmXTwJKD0vL+Pgav2geosQ==",
+  "dgSpecHash": "Hf/z6PQylvzxbb3pPbmJQxqt9LU7KHN1E2NXmGqE2OL+0/0Smc+Pn6r3Vha/wJ5Um/9abTEucJpA355/9SLeog==",
   "success": true,
   "projectFilePath": "J:\\ASP.net\\restApi\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
