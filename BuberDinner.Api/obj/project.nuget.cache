@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nhB/yt4iMOJMJRjUafTxb0xsqdgiLub/eAlD62c96gLF6DYz7lduzKl8jSnopes9l7euUTxu0ZmqOb6eoeXAvw==",
+  "dgSpecHash": "gflZYGcQx1uzTovBAe4VqGsktE0m7vpbTaXYp1cYpopQV0p45aP0vxUNprwyi0fpXclcfKj0hI033/TV0yNnVQ==",
   "success": true,
   "projectFilePath": "J:\\ASP.net\\restApi\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentresults\\3.15.1\\fluentresults.3.15.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mapster.dependencyinjection\\1.0.0\\mapster.dependencyinjection.1.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -28,10 +31,16 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.25.1\\system.identitymodel.tokens.jwt.6.25.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []

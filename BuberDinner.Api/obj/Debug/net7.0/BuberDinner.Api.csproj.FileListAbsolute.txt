@@ -47,3 +47,6 @@ J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\ErrorOr.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Contracts.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.Core.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll
