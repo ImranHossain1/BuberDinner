@@ -44,3 +44,6 @@ J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityM
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\OneOf.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\FluentResults.dll
 J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\ErrorOr.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+J:\ASP.net\restApi\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
